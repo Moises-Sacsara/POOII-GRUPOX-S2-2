@@ -1,0 +1,4 @@
+Ariel,10
+Opal,4
+Ricocan,50
+crak,67
